@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jarkkotuovinen/jarkkotuovinen/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jarkkotuovinen/jarkkotuovinen/output/galaga-contribution-graph.svg">
+  <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/jarkkotuovinen/jarkkotuovinen/output/galaga-contribution-graph.svg">
+</picture>
+
 <!--
 **jarkkotuovinen/jarkkotuovinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
